@@ -15,8 +15,8 @@ public class ProgramaPrincipal {
     public void menu() {
         //Obtenir clau
         //Obtenir missatge
-        //Encriptar missatge cirdant el metode corresponent
-        
+        //Encriptar missatge cirdant el mètode d'encriptar
         //Mostrar resultat
+        //Comprovar que retorna el missatge encriptat amb el mètode de desencriptar
     }
 }
